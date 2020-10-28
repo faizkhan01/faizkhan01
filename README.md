@@ -1,18 +1,18 @@
 ### Hi there I'm [Md. Faizur Rahman Khan](https://faizkhan01.github.io/personal-website1/) 👋
 
+## I'm MERN Stack Web Developer!
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate on any kind of interesting projects
 - 🥅 2020 Goals: Learn Node.js, Vue.js, MERN Stack Development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: khan.nayeem8662@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to travel a lot, watch movies and explore different programming languages
 
 ### Connect With Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/faizkhan01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdfaizurrahmankhan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/programmerfaizurrahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nayeemkhan01//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/nayeem8662_khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13964278/md-faizur-rahman-khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC0XKnOO2xzcIHsxSP4trCgQ?view_as=subscriber)
-
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdfaizurrahmankhan/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/programmerfaizurrahman/)
+[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)](https://www.instagram.com/nayeemkhan01/) 
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13964278/md-faizur-rahman-khan)
 <br/>
 
 ### Languages and Tools:
@@ -46,6 +46,3 @@
 <img width="550px" alt="Md. Faizur Rahman Khan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faizkhan01&show_icons=true&hide_border=true&theme=prussian"/>
 
 </details>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
