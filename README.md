@@ -13,6 +13,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/programmerfaizurrahman/)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)](https://www.instagram.com/nayeemkhan01/) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13964278/md-faizur-rahman-khan)
+
 <br/>
 
 ### Languages and Tools:
@@ -40,9 +41,3 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan01&card_width=550)](https://github.com/faizkhan01/faizkhan01)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<img width="550px" alt="Md. Faizur Rahman Khan's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faizkhan01&show_icons=true&hide_border=true&theme=prussian"/>
-
-</details>
